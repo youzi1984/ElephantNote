@@ -28,6 +28,7 @@ elephantnote是一款笔记应用
 界面
 --
 应用主界面显示所有的笔记本
+
 <img src="Screenshots/首页.png" width="200">
 
 
