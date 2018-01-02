@@ -31,19 +31,19 @@ elephantnote是一款笔记应用
 <img src="Screenshots/首页.png" width="200">
 
 应用主界面显示所有的笔记本
-![](https://github.com/.../elephantnote/.../Screenshots/生词表编辑.png)
-存储用户的生词
-![](https://github.com/.../elephantnote/.../Screenshots/用户界面.png)
 
-![](https://github.com/.../elephantnote/.../Screenshots/登录异常1.png)
-![](https://github.com/.../elephantnote/.../Screenshots/登录异常2.png)
-![](https://github.com/.../elephantnote/.../Screenshots/注册异常1.png)
-![](https://github.com/.../elephantnote/.../Screenshots/注册异常2.png)
-![](https://github.com/.../elephantnote/.../Screenshots/注册异常3.png)
-![](https://github.com/.../elephantnote/.../Screenshots/新建笔记.png)
-![](https://github.com/.../elephantnote/.../Screenshots/添加图片.png)
-![](https://github.com/.../elephantnote/.../Screenshots/手写.png)
-![](https://github.com/.../elephantnote/.../Screenshots/加入生词本.png)
+<img src="Screenshots/生词表编辑.png" width="200">
+存储用户的生词
+<img src="Screenshots/用户界面.png" width="200">
+<img src="Screenshots/登录异常1.png" width="200">
+<img src="Screenshots/登录异常2.png" width="200">
+<img src="Screenshots/注册异常1.png" width="200">
+<img src="Screenshots/注册异常2.png" width="200">
+<img src="Screenshots/注册异常3.png" width="200">
+<img src="Screenshots/新建笔记.png" width="200">
+<img src="Screenshots/添加图片.png" width="200">
+<img src="Screenshots/手写.png" width="200">
+<img src="Screenshots/加入生词本.png" width="200">
 
 后台说明
 --
