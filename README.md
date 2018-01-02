@@ -42,6 +42,7 @@ elephantnote是一款笔记应用
 <img src="Screenshots/注册异常3.png" width="200">
 <img src="Screenshots/新建笔记.png" width="200">
 <img src="Screenshots/添加图片.png" width="200">
+<img src="Screenshots/添加表情.png" width="200">
 <img src="Screenshots/手写.png" width="200">
 <img src="Screenshots/加入生词本.png" width="200">
 
