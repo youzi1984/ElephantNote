@@ -33,21 +33,26 @@ elephantnote是一款笔记应用
 
 
 点击“+”号，输入笔记本名称，创建笔记本。
+
 <img src="Screenshots/新建笔记.png" width="200">
 
 
 添加图片
+
 <img src="Screenshots/添加图片.png" width="200">
 
 
 添加表情
+
 <img src="Screenshots/添加表情.png" width="200">
 
 
 添加手写内容
+
 <img src="Screenshots/手写.png" width="200">
 
 在实际使用中，可能会复制一些句子到笔记中，如果句子中有生词，可以选中，加入生词本，也可以在生词本中直接添加。
+
 <img src="Screenshots/加入生词本.png" width="200">
 <img src="Screenshots/生词表编辑.png" width="200">
 
@@ -56,10 +61,12 @@ elephantnote是一款笔记应用
 <img src="Screenshots/用户界面.png" width="200">
 
 登录异常情况
+
 <img src="Screenshots/登录异常1.png" width="200">
 <img src="Screenshots/登录异常2.png" width="200">
 
 注册异常情况
+
 <img src="Screenshots/注册异常1.png" width="200">
 <img src="Screenshots/注册异常2.png" width="200">
 <img src="Screenshots/注册异常3.png" width="200">
