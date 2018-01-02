@@ -58,6 +58,7 @@ elephantnote是一款笔记应用
 
 
 用户登录界面，右划进入登录注册页面
+
 <img src="Screenshots/用户界面.png" width="200">
 
 登录异常情况
