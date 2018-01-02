@@ -7,44 +7,62 @@ elephantnote是一款笔记应用
 
 * 支持多个笔记本分别记录
 
-*支持图片的插入
+* 支持图片的插入
 
-*支持表情的插入
+* 支持表情的插入
 
-*支持拍照并插入
+* 支持拍照并插入
 
-*支持录音功能
+* 支持录音功能
 
-*支持笔记的手写，以图片形式保存
+* 支持笔记的手写，以图片形式保存
 
-*支持添加闹钟提醒
+* 支持添加闹钟提醒
 
-*支持用户的注册和登录，后台数据库存储用户信息
+* 支持用户的注册和登录，后台数据库存储用户信息
 
-*定义生词本，可以任意添加文本至生词本
+* 定义生词本，可以任意添加文本至生词本
 
 **151220035 郭雨琦 151220155 俞沈啸**
 
 界面
 --
-
+应用主界面显示所有的笔记本
 <img src="Screenshots/首页.png" width="200">
 
-应用主界面显示所有的笔记本
 
+点击“+”号，输入笔记本名称，创建笔记本。
+<img src="Screenshots/新建笔记.png" width="200">
+
+
+添加图片
+<img src="Screenshots/添加图片.png" width="200">
+
+
+添加表情
+<img src="Screenshots/添加表情.png" width="200">
+
+
+添加手写内容
+<img src="Screenshots/手写.png" width="200">
+
+在实际使用中，可能会复制一些句子到笔记中，如果句子中有生词，可以选中，加入生词本，也可以在生词本中直接添加。
+<img src="Screenshots/加入生词本.png" width="200">
 <img src="Screenshots/生词表编辑.png" width="200">
-存储用户的生词
+
+
+
 <img src="Screenshots/用户界面.png" width="200">
+
+登录异常情况
 <img src="Screenshots/登录异常1.png" width="200">
 <img src="Screenshots/登录异常2.png" width="200">
+
+注册异常情况
 <img src="Screenshots/注册异常1.png" width="200">
 <img src="Screenshots/注册异常2.png" width="200">
 <img src="Screenshots/注册异常3.png" width="200">
-<img src="Screenshots/新建笔记.png" width="200">
-<img src="Screenshots/添加图片.png" width="200">
-<img src="Screenshots/添加表情.png" width="200">
-<img src="Screenshots/手写.png" width="200">
-<img src="Screenshots/加入生词本.png" width="200">
+
 
 后台说明
 --
