@@ -27,7 +27,7 @@ elephantnote是一款笔记应用
 
 界面
 --
-![](https://github.com/youzi1984/ElephantNote/tree/master/Screenshots/首页.png)
+(https://github.com/youzi1984/ElephantNote/tree/master/Screenshots/首页.png)
 应用主界面显示所有的笔记本
 ![](https://github.com/.../elephantnote/.../Screenshots/生词表编辑.png)
 存储用户的生词
